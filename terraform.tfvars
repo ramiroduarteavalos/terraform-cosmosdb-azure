@@ -1,0 +1,5 @@
+location= "East US"
+resource_group_name= "xxxx"
+cosmosdb= "cosmosdb-width-tf"
+vnet_subnet_id= "xxx"
+ip_range_filter= "xxxx"
